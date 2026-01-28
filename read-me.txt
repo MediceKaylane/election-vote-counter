@@ -1,0 +1,22 @@
+# Election Vote Counter (C)
+
+Projeto acadêmico desenvolvido em C como parte dos estudos de lógica de programação.
+
+## Descrição
+O programa simula uma eleição simples, permitindo a entrada de candidatos via linha
+de comando e a contagem de votos inseridos pelo usuário.
+
+## Funcionalidades
+- Cadastro de candidatos via argumentos da linha de comando
+- Registro de votos com validação
+- Apuração do vencedor (ou vencedores em caso de empate)
+
+## Conceitos utilizados
+- Structs
+- Arrays
+- Controle de fluxo
+- Comparação de strings
+- Entrada e validação de dados
+
+## Observações
+O projeto utiliza a biblioteca CS50 para facilitar a entrada de dados.
