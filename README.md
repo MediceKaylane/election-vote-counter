@@ -1,0 +1,21 @@
+# Election Vote Counter (C)
+
+Academic project developed in C as part of my studies in programming fundamentals.
+
+## Description
+This program simulates a simple election by allowing candidates to be provided through command-line arguments and counting votes entered by the user.
+
+## Features
+- Register candidates via command-line arguments
+- Validate and record user votes
+- Determine the winner (or winners in the event of a tie)
+
+## Concepts Applied
+- Structs
+- Arrays
+- Control flow
+- String comparison
+- Input validation
+
+## Notes
+This project uses the CS50 library to simplify user input.
